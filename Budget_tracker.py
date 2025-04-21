@@ -1,5 +1,5 @@
 ## Name: RAJIVE PRASHAD KUMARANAYAKE
-# General Assembly - Assignment 1
+# General Assembly 
 # Reference list: Study Notes, Python.org,assignment cheat sheet, stackoverflow.com, w3schools.com
 ##### ## Python Fundamentals Lab -
 # #### Budget Tracker
