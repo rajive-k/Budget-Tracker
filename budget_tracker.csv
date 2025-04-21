@@ -1,0 +1,46 @@
+title,type,income_amount,expense_amount,transaction_date,account,customer,vendor
+Juices,Income,379.9,0,10-15-2024,Fruit Juice Bar,Dineshika,0
+Fresh Fruits,Expense,0,350.2,10-20-2024,Lemonade Stand,0,Python Inc.
+smoothies,Income,348.75,0,10-25-2024,Fruit Juice Bar,Rajive,0
+smoothies,Income,467.9,0,10-15-2024,Lemonade Stand,Rajive,0
+Shakes,Income,768.25,0,10-20-2024,Fruit Juice Bar,Rajive,0
+Cups,Expense,0,77,10-25-2024,Lemonade Stand,0,General Assembly
+Fresh Fruits,Expense,0,120,10-15-2024,Fruit Juice Bar,0,Python Inc.
+Juices,Income,369,0,10-20-2024,Lemonade Stand,Rajive,0
+smoothies,Income,800,0,10-25-2024,Lemonade Stand,Dineshika,0
+Rent,Expense,0,400,10-30-2024,Lemonade Stand,0,Shop Rental Company
+Electricity,Expense,0,150,10-30-2024,Lemonade Stand,0,Energy Company
+Juices,Income,496,0,10-15-2024,Fruit Juice Bar,Rajive,0
+Rent,Expense,0,500,10-30-2024,Fruit Juice Bar,0,Shop Rental Company
+smoothies,Income,254,0,11-20-2024,Fruit Juice Bar,Rajive,0
+Fresh Fruits,Expense,0,105.56,11-25-2024,Lemonade Stand,0,Python Inc.
+Juices,Income,346.45,0,11-15-2024,Lemonade Stand,Dineshika,0
+Cups,Expense,0,155,11-20-2024,Fruit Juice Bar,0,Python Inc.
+smoothies,Income,344,0,11-25-2024,Lemonade Stand,Rajive,0
+Shakes,Income,137.69,0,11-20-2024,Fruit Juice Bar,Rajive,0
+ice cream,Expense,0,114,11-25-2024,Fruit Juice Bar,0,Python Inc.
+Shakes,Income,100,0,11-15-2024,Fruit Juice Bar,Rajive,0
+smoothies,Income,141.55,0,11-20-2024,Lemonade Stand,Rajive,0
+Juices,Income,749,0,11-25-2024,Lemonade Stand,Rajive,0
+Fresh Fruits,Expense,0,270,12-25-2024,Fruit Juice Bar,0,General Assembly
+Shakes,Income,544,0,12-15-2024,Fruit Juice Bar,Dineshika,0
+Juices,Income,863.55,0,12-20-2024,Lemonade Stand,Dineshika,0
+smoothies,Income,737,0,12-25-2024,Fruit Juice Bar,Rajive,0
+Cups,Expense,0,250.25,12-25-2024,Lemonade Stand,0,General Assembly
+smoothies,Income,521.65,0,12-15-2024,Lemonade Stand,Dineshika,0
+ice cream,Expense,0,99.99,12-20-2024,Fruit Juice Bar,0,General Assembly
+Fresh Fruits,Expense,0,102.65,12-25-2024,Fruit Juice Bar,0,General Assembly
+ice cream,Expense,0,100.01,12-25-2024,Lemonade Stand,0,General Assembly
+smoothies,Income,124.75,0,12-15-2024,Fruit Juice Bar,Rajive,0
+Shakes,Income,543.75,0,12-20-2024,Lemonade Stand,Rajive,0
+New Sales item,Income,1120.36,0,12-20-2024,New Lemonade Stand,New customer,0
+New Purchase,Expense,0,1115.12,12-21-2024,New Lemonade Stand,0,New vendor
+Sundae,Income,420.39,0,12-30-2024,Lemonade Stand,Dineshika,0
+Shakes,Income,1200,0,12-30-2024,Lemonade Stand,Rajive,0
+Donations,Expense,0,250,11-25-2024,Lemonade Stand,0,Help Foundation
+Lemonade,Income,1600,0,11-20-2024,Lemonade Stand,Raive,0
+Rent,Expense,0,500,11-20-2024,Lemonade Stand,0,Shop Rental Company
+Delivery,Expense,0,58.75,11-20-2024,Lemonade Stand,0,Courier
+Cups,Expense,0,99.9,11-21-2024,Lemonade Stand,0,Python Inc.
+Shop rental,Expense,0,500,12-30-2024,Lemonade Stand,0,Shop Rental Company
+Energy Bill,Expense,0,270.99,12-31-2024,Lemonade Stand,0,Energy Company
